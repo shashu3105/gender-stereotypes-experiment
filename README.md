@@ -4,6 +4,11 @@
 This is a team-based experimental economics project adapting 
 Bordalo et al. (2019)to study how gender stereotypes shape beliefs 
 about task performance in male-typed and female-typed domains.
+
+I designed the survey instrument and implemented partner-gender 
+revelation randomization via Qualtrics.
+Further, I conducted a power analysis using published effect sizes
+from Bordalo et al. (2019) to confirm an adequate sample size prior to data collection
 ---
 
 ## Important Note on Data
