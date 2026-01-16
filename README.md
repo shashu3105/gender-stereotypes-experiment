@@ -1,7 +1,7 @@
 # gender-stereotypes-experiment
 # Beliefs about Gender and Task Performance
 
-This is a 4th year team-based experimental economics project adapting 
+This is a team-based experimental economics project adapting 
 Bordalo et al. (2019)to study how gender stereotypes shape beliefs 
 about task performance in male-typed and female-typed domains.
 ---
@@ -42,11 +42,11 @@ The analysis workflow includes:
 - Visualization of belief distributions  
 - Power analysis using published effect sizes from Bordalo et al. (2019)  
 ---
-
 ## Repository Structure
 
--code/ Stata analysis scripts
--data/ Data documentation and synthetic datasets
--docs/ Presentation and supporting materials
--output/ Generated figures and outputs
+code/        Stata analysis scripts
+data/        Data documentation and synthetic datasets
+docs/        Presentation and supporting materials
+output/      Generated figures and outputs
+
 
