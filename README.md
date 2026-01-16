@@ -8,6 +8,7 @@ I designed the survey instrument and implemented partner-gender
 revelation randomization via Qualtrics.
 Further, I conducted a power analysis using published effect sizes
 from Bordalo et al. (2019) to confirm an adequate sample size prior to data collection
+with synthetic data
 ---
 
 ## Important Note on Data
